@@ -6,6 +6,7 @@ Ollama openai example
 ### ollama
 
 ```zsh
+ollama list
 ```
 
 ### curl

@@ -3,6 +3,11 @@ Ollama openai example
 
 ## Commands
 
+### ollama
+
+```zsh
+```
+
 ### curl
 
 ```zsh

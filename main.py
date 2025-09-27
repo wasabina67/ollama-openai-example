@@ -8,7 +8,7 @@ def main():
     )
 
     resp = client.chat.completions.create(
-        model="gpt-oss:20b",
+        model="gemma3:27b",
         messages=[
             {"role": "system", "content": "あなたは優秀なアシスタントです。"},
             {"role": "user", "content": "こんにちは。何かダジャレを言ってください。"},

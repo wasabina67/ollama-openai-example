@@ -17,6 +17,10 @@ curl http://localhost:11434/api/version
 
 ### uv
 
+```zsh
+uv sync
 ```
+
+```zsh
 uv run python main.py
 ```

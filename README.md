@@ -14,3 +14,9 @@ ollama list
 ```zsh
 curl http://localhost:11434/api/version
 ```
+
+### uv
+
+```
+uv run python main.py
+```
